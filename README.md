@@ -1,2 +1,2 @@
-# In-ynieria-oprogramowania
+# Inzynieria-oprogramowania
 Zajęcia z IO
